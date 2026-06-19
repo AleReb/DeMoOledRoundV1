@@ -22,7 +22,7 @@ Hay dos sketches:
 
 Puedes ver el video de demostracion aqui:
 
-![Ver demo](https://github.com/user-attachments/assets/065e5eed-1d2e-4596-9942-df603dec1149)
+[Ver demo](https://github.com/user-attachments/assets/065e5eed-1d2e-4596-9942-df603dec1149)
 
 Tambien hay un conversor:
 
