@@ -16,7 +16,9 @@ Hay dos sketches:
 
 Puedes ver el video de demostracion aqui:
 
-[Ver demo.mp4](docs/demo.mp4)
+<video src="docs/demo.mp4" controls width="100%">
+  Tu navegador no admite el elemento de video.
+</video>
 
 Tambien hay un conversor:
 
