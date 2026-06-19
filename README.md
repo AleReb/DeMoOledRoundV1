@@ -1,3 +1,9 @@
+
+
+
+
+
+
 # Demo OLED/TFT redonda GC9A01 con ESP32
 
 Este proyecto contiene demos para una pantalla redonda GC9A01 de 1.28" y 240x240 pixeles usando Arduino + ESP32.
@@ -16,7 +22,7 @@ Hay dos sketches:
 
 Puedes ver el video de demostracion aqui:
 
-![Ver demo](docs/demo.mp4)
+![Ver demo](https://github.com/user-attachments/assets/065e5eed-1d2e-4596-9942-df603dec1149)
 
 Tambien hay un conversor:
 
