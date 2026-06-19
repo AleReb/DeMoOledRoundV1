@@ -16,8 +16,7 @@ Hay dos sketches:
 
 Puedes ver el video de demostracion aqui:
 
-<video src="docs/demo.mp4" controls width="100%">
-  Tu navegador no admite el elemento de video.
+<video src="docs/demo.mp4" autoplay loop muted playsinline width="100%">
 </video>
 
 Tambien hay un conversor:
