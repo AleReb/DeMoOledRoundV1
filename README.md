@@ -16,8 +16,7 @@ Hay dos sketches:
 
 Puedes ver el video de demostracion aqui:
 
-<video src="docs/demo.mp4" autoplay loop muted playsinline width="100%">
-</video>
+![Ver demo](docs/demo.mp4)
 
 Tambien hay un conversor:
 
